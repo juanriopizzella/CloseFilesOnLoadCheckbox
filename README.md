@@ -1,5 +1,6 @@
 # CloseFilesOnLoadCheckbox (Autodesk Navisworks Plugin)
 
+This repository contains the source code and Visual Studio Solution of the CloseFilesOnLoadCheckbox Autodesk Navisworks Plugin.
 
 This plugin is intended to counteract a very common issue related to clash detection workflows: the inability to overwrite NWC files due to someone having them appended to a Navisworks Manage session that has the "Close NWC/NWD files on load" checkbox unticked.
 
@@ -9,3 +10,14 @@ The user will still have the freedom to manually access the Options Editor to re
 
 
 Developed for Navisworks Manage 2021, targetting the 4.7.2 .NET Framework
+
+
+## Author
+
+Juan Rio Pizzella
+
+
+## License
+
+This sample is licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+Please see the [LICENSE](LICENSE) file for full details.
