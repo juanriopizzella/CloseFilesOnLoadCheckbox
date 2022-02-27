@@ -15,7 +15,7 @@ Download the file "CloseFilesOnLoadCheckbox.dll" and paste it in the directory "
 
 This should be done in all machines.
 
-Please get in touch if you are using a different Navisworks Manage year-release so that I can prepare a different DLL file for you.
+Please get in touch if you are using a different Navisworks Manage year-release so that I can prepare a different DLL file for you and afterwards upload it in case someone else could be interested as well.
 
 
 ## Author
