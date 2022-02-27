@@ -9,7 +9,13 @@ The plugin will look into the checkbox state during Navisworks Manage startup. I
 The user will still have the freedom to manually access the Options Editor to revert the plugin's action, but will be advised that after doing this the overwriting of appended NWC files may be affected.
 
 
-Developed for Navisworks Manage 2021, targetting the 4.7.2 .NET Framework
+## Installation (Navisworks Manage 2021)
+
+Download the file "CloseFilesOnLoadCheckbox.dll" and paste it in the directory "C:\Program Files\Autodesk\Navisworks Manage 2021\Plugins\CloseFilesOnLoadCheckbox\".
+
+This should be done in all machines.
+
+Please get in touch if you are using a different Navisworks Manage year-release so that I can prepare a different DLL file for you.
 
 
 ## Author
