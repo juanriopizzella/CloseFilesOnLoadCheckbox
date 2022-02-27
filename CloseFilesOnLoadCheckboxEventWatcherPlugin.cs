@@ -19,8 +19,8 @@ namespace CloseFilesOnLoadCheckbox
                     "Since the 'Close NWC/NWD files on load' checkbox was identified to be unchecked while opening Manage 2021, it has now been automatically ticked." +
                     "\n" + "\n" +
                     "You can manually access the Options Editor to revert this action, but take into consideration that after doing this you may be blocking the overwriting of appended NWC files." +
-                    "\n" + "\n"+ "\n" +
-                    ""
+                    "\n" + "\n" + "\n" + "\n" + "\n" +
+                    "https://github.com/juanriopizzella/CloseFilesOnLoadCheckbox"
                     );
             }
         }
