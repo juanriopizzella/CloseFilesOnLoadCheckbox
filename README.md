@@ -11,7 +11,7 @@ The user will still have the freedom to manually access the Options Editor to re
 
 ## Installation (Navisworks Manage 2021)
 
-Download the file "CloseFilesOnLoadCheckbox.dll" and paste it in the directory "C:\Program Files\Autodesk\Navisworks Manage 2021\Plugins\CloseFilesOnLoadCheckbox\".
+Download the file "CloseFilesOnLoadCheckbox.dll" (Navisworks2021InstallationFile folder) and paste it in the directory "C:\Program Files\Autodesk\Navisworks Manage 2021\Plugins\CloseFilesOnLoadCheckbox\".
 
 This should be done in all machines.
 
