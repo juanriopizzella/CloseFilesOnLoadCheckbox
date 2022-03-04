@@ -32,11 +32,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Autodesk.Navisworks.Api">
-      <HintPath>..\..\..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Navisworks Manage 2021\Autodesk.Navisworks.Api.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Navisworks Manage 2022\Autodesk.Navisworks.Api.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Autodesk.Navisworks.Controls">
-      <HintPath>..\..\..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Navisworks Manage 2021\Autodesk.Navisworks.Controls.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Navisworks Manage 2022\Autodesk.Navisworks.Controls.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
@@ -55,6 +55,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>xcopy/Y "$(TargetDir)"."" "C:\Program Files\Autodesk\Navisworks Manage 2021\Plugins\$(TargetName)\"</PostBuildEvent>
+    <PostBuildEvent>xcopy/Y "$(TargetDir)"."" "C:\Program Files\Autodesk\Navisworks Manage 2022\Plugins\$(TargetName)\"</PostBuildEvent>
   </PropertyGroup>
 </Project>
