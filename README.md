@@ -1,4 +1,4 @@
-# CloseFilesOnLoadCheckbox (Autodesk Navisworks Plugin)
+# CloseFilesOnLoadCheckbox (Autodesk Navisworks Manage Plugin)
 
 This repository contains the source code and Visual Studio Solution of the CloseFilesOnLoadCheckbox Autodesk Navisworks Manage 2022 Plugin.
 
