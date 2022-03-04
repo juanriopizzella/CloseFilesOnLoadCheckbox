@@ -1,4 +1,4 @@
-﻿//Developed for Navisworks Manage 2021, targetting the 4.7.2 .NET Framework
+﻿//Developed for Navisworks Manage 2021, targetting the 4.7.2 .NET Framework.
 
 using System.Windows.Forms;
 using Autodesk.Navisworks.Api.Plugins;
